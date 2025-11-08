@@ -9,7 +9,7 @@ st.title("🕳Pothole Detector (YOLOv8)")
 st.write(
     f"Upload a street image, and the YOLOv8s model will try to detect potholes. [Project description in notebook]")
 
-MODEL_NAME = "best.pt"
+MODEL_NAME = "model.pt"
 
 model = YOLO(MODEL_NAME)
 
