@@ -1,5 +1,7 @@
 # Pothole Detection with YOLOv8
 
+## View Project: [pothole-detect.streamlit.app](https://pothole-detect.streamlit.app/)
+
 This repository contains the complete workflow for training a YOLOv8s object detection model to identify potholes in road images. The project covers the full pipeline: sourcing raw images, performing manual data labeling, and training the model.
 
 ## Project Overview
